@@ -1,0 +1,28 @@
+.primary-button{
+    background: #333333;
+    padding: 12px 18px;
+    border: 1px solid transparent;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    color: red;
+}
+
+.primary-buttn:hover{
+    background: #222222;
+}
+
+.primary-button{
+    background: #333333;
+    padding: 12px 18px;
+    border: 1px solid #333333;
+    color: #333333;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
+
+.primary-buttn:hover{
+    background: #f0f0f0;
+}
