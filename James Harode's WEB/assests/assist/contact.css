@@ -1,6 +1,6 @@
 #contact {
   height: 100%;
-  background: #F0F0F0;
+  background: #a7aef5;
   padding: 72px 20px;
   display: flex;
   flex-direction: column;
@@ -18,7 +18,7 @@
   flex-direction: column;
   gap: 14px;
   padding: 24px;
-  background: #FFFFFF;
+  background: #e6e6f6;
   width: 100%;
   height: auto;
   border: 1px solid #e2e0e0;
