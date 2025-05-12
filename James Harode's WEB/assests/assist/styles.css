@@ -32,8 +32,7 @@ html, body {
   margin-top: 20px;
   border-radius: 10px;
 }
-
-.about-p{
-  padding: 40px 20px;
-  margin: 50px;
+.intro-text {
+  text-align: center;
+  margin: 12px;
 }
